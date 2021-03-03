@@ -1,0 +1,12 @@
+[
+    {
+        "model-name": "wilayas",
+        "resource-file": "wilayas.json",
+        "table-name": "wilayas"
+    },
+    {
+        "model-name": "corps",
+        "resource-file": "corps.json",
+        "table-name": "corps"
+    }
+]
